@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<llibres>
+    <llibre>
+        <titol>El nom del vent</titol>
+        <autor>Partick Rothfuss</autor>
+    </llibre>
+    <llibre>
+        <titol>El temor d'un home savi</titol>
+        <autor>Partick Rothfuss</autor>
+    </llibre>
+    <llibre>
+        <tito>Ha vuelto</tito>
+        <autor>Timur Vermes</autor>
+    </llibre>
+    <llibre>
+        <titol>Rebelion en la granja</titol>
+        <autor>George Orwell</autor>
+    </llibre>
+    <llibre>
+        <titol>White Fang</titol>
+        <autor>Jack London</autor>
+    </llibre>
+    <llibre>
+        <titol>Dansa amb dracs</titol>
+        <autor>George R.R. Martin</autor>
+    </llibre>
+</llibres>
